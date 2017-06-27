@@ -1,0 +1,2 @@
+[04-Mar-2017 05:46:55 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home3/hlourcey/public_html/westwood/wp-content/themes/twentythirteen/search.php on line 10
+[09-Jun-2017 03:22:39 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home3/hlourcey/public_html/westwood/wp-content/themes/twentythirteen/404.php on line 10

@@ -1,0 +1,7 @@
+[29-Mar-2017 14:03:11 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home3/hlourcey/public_html/westwood/wp-content/themes/bridge/404.php on line 5
+[31-Mar-2017 17:00:41 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home3/hlourcey/public_html/westwood/wp-content/themes/bridge/404.php on line 5
+[09-Apr-2017 18:26:18 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home3/hlourcey/public_html/westwood/wp-content/themes/bridge/index.php on line 1
+[09-Apr-2017 20:04:16 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home3/hlourcey/public_html/westwood/wp-content/themes/bridge/index.php on line 1
+[12-Apr-2017 19:35:26 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home3/hlourcey/public_html/westwood/wp-content/themes/bridge/404.php on line 5
+[16-May-2017 13:36:55 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home3/hlourcey/public_html/westwood/wp-content/themes/bridge/index.php on line 1
+[21-Jun-2017 07:49:07 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home3/hlourcey/public_html/westwood/wp-content/themes/bridge/index.php on line 1

@@ -1,0 +1,152 @@
+
+
+element.style {
+}
+.light.header_style_on_scroll nav.main_menu>ul>li.active>a, .light.header_style_on_scroll nav.main_menu>ul>li:before, .light.header_style_on_scroll nav.main_menu>ul>li>a:hover, .light:not(.sticky):not(.scrolled) nav.main_menu>ul>li.active>a, .light:not(.sticky):not(.scrolled) nav.main_menu>ul>li:before, .light:not(.sticky):not(.scrolled) nav.main_menu>ul>li>a, .light:not(.sticky):not(.scrolled) nav.main_menu>ul>li>a:hover {
+    color: #fff;
+    color: black;
+
+}
+.q_counter_holder.center{
+    padding-left: 0px;
+    padding-right: 0px;
+}
+element {
+}
+.ajde_evcal_calendar #evcal_head.calendar_header #evcal_cur, .ajde_evcal_calendar .evcal_month_line p {
+    color: #888888;
+}
+.q_counter_holder .separator.small {
+    margin: 8px auto 0 auto;
+}
+
+.q_counter_holder p.counter_text {
+    margin: 43px 0 0 0;
+}
+
+.light:not(.sticky):not(.scrolled) nav.main_menu>ul>li.active>a, .light:not(.sticky):not(.scrolled) nav.main_menu>ul>li>a:hover {
+    color: #000 !important;
+}
+
+.side_menu_button > a:hover {
+    color: #1abc9c!important;
+}
+
+.q_progress_bar {
+    position: relative;
+    margin: 0 0 44px 0;
+    width: 100%;
+    overflow: hidden;
+    text-align: left;
+}
+.subtitle {
+    text-transform: uppercase;
+}
+
+/*Single Image Hover Effect - start*/
+.wpb_single_image .prettyphoto {
+    position: relative;
+    display: inline-block;
+    width: 100%;
+}
+
+.wpb_single_image .prettyphoto:after {
+    position: absolute;
+    content: '';
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    background-color: rgba(0,0,0,.4);
+    opacity: 0;
+    -webkit-transition: opacity .2s ease;
+    transition: opacity .2s ease;
+}
+
+.wpb_single_image .prettyphoto:hover:after {
+    opacity: 1;
+    -webkit-transition: opacity .6s ease;
+    transition: opacity .6s ease;
+}
+/*Single Image Hover Effect - end*/
+
+.side_menu .widget {
+    margin: 0 0 35px;
+}
+
+.testimonials .testimonial_text_inner p.testimonial_author {
+    margin-top: 33px;
+}
+
+.testimonials_holder .flex-direction-nav li {
+    margin-top: 47px;
+}
+
+@media only screen and (max-width: 768px) {
+    .footer_responsive_adv .footer_top .four_columns .column1, .footer_responsive_adv .footer_top .four_columns .column2, .footer_responsive_adv .footer_top .four_columns .column3 {
+    margin: 0 0 50px;
+}
+}
+
+@media only screen and (max-width: 480px) {
+    .footer_top .column_inner>div {
+    margin: 0!important;
+}
+}
+
+@media only screen and (max-width: 1000px) {
+    .title.title_size_medium h1 {
+    font-size: 92px;
+    line-height: 92px;
+}
+}
+
+@media only screen and (max-width: 480px) {
+    .title.title_size_medium h1 {
+    font-size: 29px;
+    line-height: 80px;
+     }
+     .subtitle {
+     display: none;
+     }
+    .title.title_size_small h1 {
+    font-size: 20px;
+    line-height: 25px;
+}
+}
+
+.projects_holder article .portfolio_description {
+    padding: 30px 0 22px;
+}
+
+.qode_portfolio_related .projects_holder article .portfolio_description .portfolio_title a,
+.portfolio_navigation.navigation_title .post_info span.h5 {
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.wpcf7 form.wpcf7-form p {
+    margin-bottom: 12px;
+}
+
+.q_dropcap{
+    margin: 0px 18px 0px 0px;
+}
+
+.comments .comment .text .comment_date {
+    font-size: 12px;
+    font-weight: 500;
+    color: #303030;
+}
+
+.comments .comment .text .text_holder {
+    margin: 13px 0 0;
+}
+
+.comment_holder .comment {
+    padding: 34px 25px 37px;
+}
+
+.icon_social_holder>div {
+    font-weight: 500;
+}

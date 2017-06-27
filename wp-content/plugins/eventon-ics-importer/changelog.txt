@@ -1,0 +1,5 @@
+ICS Importer for EventON Plugin
+====================================
+
+v 0.1 (2016-
+Initial release

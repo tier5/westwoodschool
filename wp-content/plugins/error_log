@@ -1,0 +1,3 @@
+[21-Feb-2017 15:21:41 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home3/hlourcey/public_html/westwood/wp-content/plugins/hello.php on line 60
+[20-Apr-2017 02:43:47 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home3/hlourcey/public_html/westwood/wp-content/plugins/hello.php on line 60
+[31-May-2017 06:27:52 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home3/hlourcey/public_html/westwood/wp-content/plugins/hello.php on line 60

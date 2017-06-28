@@ -818,7 +818,7 @@ $display_header_top = "yes";
     display: none !important;
  }
 </style>
-<img class="mobile samrav" itemprop="image" src="http://westwoodschool.org/wp-content/uploads/2016/12/Westwood-Logo.png" alt="Logo">
+<img class="mobile samrav" itemprop="image" src="<?php echo site_url();?>/wp-content/uploads/2016/12/Westwood-Logo.png" alt="Logo">
                         <nav class="main_menu drop_down <?php if($header_bottom_appearance != "stick menu_bottom"){ 
                         	//echo esc_attr($menu_position);
                         } ?>">
